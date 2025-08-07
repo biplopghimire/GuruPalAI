@@ -1,0 +1,2 @@
+# GuruPalAI
+GuruPal AI is a voice-based Retrieval-Augmented Generation (RAG) learning assistant designed to make personalized education accessible in low-resource environments. Teachers can upload class notes, homework, and other materials, which the system indexes for contextual question answering. Students can interact with GuruPal AI through a phone call or web interface to get definitions, explanations, and guided learning directly from the teacher’s curriculum, helping bridge the digital divide for learners without access to laptops or high-speed internet.
